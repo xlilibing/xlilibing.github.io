@@ -2,50 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lilibing.gitee.io/posts/init/</loc>
+    <loc>https://xlilibing.github.io/categories/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/categories/man/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/posts/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/tags/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/tags/tags/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/posts/test_one/</loc>
+    <lastmod>2021-03-15T06:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/posts/new_one/</loc>
+    <lastmod>2021-03-15T05:25:02+08:00</lastmod>
+  </url><url>
+    <loc>https://xlilibing.github.io/posts/init/</loc>
     <lastmod>2021-03-11T08:20:57+08:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/</loc>
-    <lastmod>2021-03-11T08:20:57+08:00</lastmod>
-  </url><url>
-    <loc>https://lilibing.gitee.io/posts/</loc>
-    <lastmod>2021-03-11T08:20:57+08:00</lastmod>
-  </url><url>
-    <loc>https://lilibing.gitee.io/tags/</loc>
-    <lastmod>2021-03-11T08:20:57+08:00</lastmod>
-  </url><url>
-    <loc>https://lilibing.gitee.io/tags/tags/</loc>
-    <lastmod>2021-03-11T08:20:57+08:00</lastmod>
-  </url><url>
-    <loc>https://lilibing.gitee.io/categories/</loc>
+    <loc>https://xlilibing.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/tags/first/</loc>
+    <loc>https://xlilibing.github.io/posts/first-page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/posts/first-page/</loc>
+    <loc>https://xlilibing.github.io/tags/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/tags/page/</loc>
+    <loc>https://xlilibing.github.io/categories/spring/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/categories/spring/</loc>
+    <loc>https://xlilibing.github.io/tags/unt/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/tags/unt/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://lilibing.gitee.io/posts/test/</loc>
+    <loc>https://xlilibing.github.io/posts/test/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/posts/test-copy/</loc>
+    <loc>https://xlilibing.github.io/posts/test-copy/</loc>
     <lastmod>2019-03-26T08:46:11+01:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/posts/test-copy-2/</loc>
+    <loc>https://xlilibing.github.io/posts/test-copy-2/</loc>
     <lastmod>2019-03-26T08:46:11+01:00</lastmod>
   </url><url>
-    <loc>https://lilibing.gitee.io/archives/</loc>
+    <loc>https://xlilibing.github.io/archives/</loc>
   </url><url>
-    <loc>https://lilibing.gitee.io/search/</loc>
+    <loc>https://xlilibing.github.io/search/</loc>
   </url>
 </urlset>
