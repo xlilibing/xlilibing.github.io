@@ -5,7 +5,16 @@
     <link>https://lilibing.github.io/posts/</link>
     <description>Recent content in Posts on lilibing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Mar 2021 06:01:03 +0800</lastBuildDate><atom:link href="https://lilibing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 06:35:01 +0800</lastBuildDate><atom:link href="https://lilibing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last_test</title>
+      <link>https://lilibing.github.io/posts/last_test/</link>
+      <pubDate>Mon, 15 Mar 2021 06:35:01 +0800</pubDate>
+      
+      <guid>https://lilibing.github.io/posts/last_test/</guid>
+      <description>last test </description>
+    </item>
+    
     <item>
       <title>Test_one</title>
       <link>https://lilibing.github.io/posts/test_one/</link>
