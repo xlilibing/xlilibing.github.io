@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>man on lilibing</title>
-    <link>https://xlilibing.github.io/categories/man/</link>
+    <link>https://lilibing.github.io/categories/man/</link>
     <description>Recent content in man on lilibing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Mar 2021 06:01:03 +0800</lastBuildDate><atom:link href="https://xlilibing.github.io/categories/man/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 06:01:03 +0800</lastBuildDate><atom:link href="https://lilibing.github.io/categories/man/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test_one</title>
-      <link>https://xlilibing.github.io/posts/test_one/</link>
+      <link>https://lilibing.github.io/posts/test_one/</link>
       <pubDate>Mon, 15 Mar 2021 06:01:03 +0800</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/test_one/</guid>
+      <guid>https://lilibing.github.io/posts/test_one/</guid>
       <description>test one </description>
     </item>
     
     <item>
       <title>New_one</title>
-      <link>https://xlilibing.github.io/posts/new_one/</link>
+      <link>https://lilibing.github.io/posts/new_one/</link>
       <pubDate>Mon, 15 Mar 2021 05:25:02 +0800</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/new_one/</guid>
+      <guid>https://lilibing.github.io/posts/new_one/</guid>
       <description>this a new_one markdown for test blog.sh </description>
     </item>
     

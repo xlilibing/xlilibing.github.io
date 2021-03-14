@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on lilibing</title>
-    <link>https://xlilibing.github.io/posts/</link>
+    <link>https://lilibing.github.io/posts/</link>
     <description>Recent content in Posts on lilibing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Mar 2021 06:01:03 +0800</lastBuildDate><atom:link href="https://xlilibing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 06:01:03 +0800</lastBuildDate><atom:link href="https://lilibing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test_one</title>
-      <link>https://xlilibing.github.io/posts/test_one/</link>
+      <link>https://lilibing.github.io/posts/test_one/</link>
       <pubDate>Mon, 15 Mar 2021 06:01:03 +0800</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/test_one/</guid>
+      <guid>https://lilibing.github.io/posts/test_one/</guid>
       <description>test one </description>
     </item>
     
     <item>
       <title>New_one</title>
-      <link>https://xlilibing.github.io/posts/new_one/</link>
+      <link>https://lilibing.github.io/posts/new_one/</link>
       <pubDate>Mon, 15 Mar 2021 05:25:02 +0800</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/new_one/</guid>
+      <guid>https://lilibing.github.io/posts/new_one/</guid>
       <description>this a new_one markdown for test blog.sh </description>
     </item>
     
     <item>
       <title>Init</title>
-      <link>https://xlilibing.github.io/posts/init/</link>
+      <link>https://lilibing.github.io/posts/init/</link>
       <pubDate>Thu, 11 Mar 2021 08:20:57 +0800</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/init/</guid>
+      <guid>https://lilibing.github.io/posts/init/</guid>
       <description>Maevn简介  Maven 是 Apache 下的一个纯 Java 开发的开源项目。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。 Maven 是一个项目管理工具，可以对 Java 项目进行构建、依赖管理。
  1.Maven约定配置 Maven默认配置
  一个 maven 项目在默认情况下会产生 JAR 文件，另外 ，编译后 的 classes 会放在 ${basedir}/target/classes 下面， JAR 文件会放在 ${basedir}/target 下面。 archetype:generate 目标会列出一系列的 archetype 让你选择。 Archetype 可以理解成项目的模型。Maven 为我们提供了很多种的项目模型，包括从简单的 Swing 到复杂的 Web 应用 当你第一次运行 maven 的时候，它会从网上的 maven 库 (repository) 下载需要的程序，存放在你电脑的本地库 (local repository) 中，所以这个时候你需要有 Internet 连接。Maven 默认的本地库是 ~/.</description>
@@ -37,38 +37,38 @@
     
     <item>
       <title>My 1st post</title>
-      <link>https://xlilibing.github.io/posts/first-page/</link>
+      <link>https://lilibing.github.io/posts/first-page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/first-page/</guid>
+      <guid>https://lilibing.github.io/posts/first-page/</guid>
       <description>first page 你好世界，你好！</description>
     </item>
     
     <item>
       <title>test hugo</title>
-      <link>https://xlilibing.github.io/posts/test/</link>
+      <link>https://lilibing.github.io/posts/test/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/test/</guid>
+      <guid>https://lilibing.github.io/posts/test/</guid>
       <description>test hugo [toc]
 sdlsfgdf dsfjfdskg    First Header Second Header     Content Cell Content Cell   Content Cell Content Cell    </description>
     </item>
     
     <item>
       <title>test copy hugo</title>
-      <link>https://xlilibing.github.io/posts/test-copy/</link>
+      <link>https://lilibing.github.io/posts/test-copy/</link>
       <pubDate>Tue, 26 Mar 2019 08:46:11 +0100</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/test-copy/</guid>
+      <guid>https://lilibing.github.io/posts/test-copy/</guid>
       <description>test copy hugo </description>
     </item>
     
     <item>
       <title>test copy hugo1</title>
-      <link>https://xlilibing.github.io/posts/test-copy-2/</link>
+      <link>https://lilibing.github.io/posts/test-copy-2/</link>
       <pubDate>Tue, 26 Mar 2019 08:46:11 +0100</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/test-copy-2/</guid>
+      <guid>https://lilibing.github.io/posts/test-copy-2/</guid>
       <description>test copy hugaaaaaaaaaaaafsdjgksjajgkljgkla;dsfkgs;dfo fdsgkjs;gsd;f sdgl;sdkfl;sd</description>
     </item>
     

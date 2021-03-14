@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>unt on lilibing</title>
-    <link>https://xlilibing.github.io/tags/unt/</link>
+    <link>https://lilibing.github.io/tags/unt/</link>
     <description>Recent content in unt on lilibing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://xlilibing.github.io/tags/unt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://lilibing.github.io/tags/unt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://xlilibing.github.io/posts/first-page/</link>
+      <link>https://lilibing.github.io/posts/first-page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://xlilibing.github.io/posts/first-page/</guid>
+      <guid>https://lilibing.github.io/posts/first-page/</guid>
       <description>first page 你好世界，你好！</description>
     </item>
     
